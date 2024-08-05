@@ -1,1 +1,27 @@
-# Awesome-Lifelong-Person-Re-Identification
+- （2019 AVSS）LwF-ReID：Continuous Learning without Forgetting for Person Re-Identification
+- （2021 AAAI）GwF：Generalising without Forgetting for Lifelong Person Re-Identification
+- （2021 CVPR）AKA：Lifelong Person Re-Identification via Adaptive Knowledge Accumulation
+- （2021 PRCV）AWEC：Continual Representation Learning via Auto-Weighted Latent Embeddings on Person ReID
+- （2021 WACV）CRL：Continual Representation Learning for Biometric Identification
+- （2022 AAAI）PTKP：Lifelong Person Re-Identification by Pseudo Task Knowledge Preservation
+- （2022 ACM MM）MRN：Meta Reconciliation Normalization for Lifelong Person Re-Identification
+- （2022 ACM MM）PatchKD：Patch-based Knowledge Distillation for Lifelong Person Re-Identification
+- （2022 BMVC）DwoPP：Positive Pair Distillation Considered Harmful Continual Meta Metric Learning for Lifelong Object Re-Identification
+- （2022 CVPR）AGD：Augmented Geometric Distillation for Data-Free Incremental Person ReID
+- （2022 PRCV）VAE-D-R：Manifold-Driven and Feature Replay Lifelong Representation Learning on Person ReID
+- （2022 SPL）GFDL：Continuous and Unified Person Re-Identification
+- （2023 AAAI）KRKC：Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation（arXiv v1）
+- （2023 NN）CKP：Knowledge-Preserving Continual Person Re-Identification Using Graph Attention Network
+- （2023 PR）ConRFL：Learning Consistent Region Features for Lifelong Person Re-Identification
+- （2023 PRCV）PLReID：Prompt Based Lifelong Person Re-identification
+- （2023 TPAMI）MEGE：A Memorizing and Generalizing Framework for Lifelong Person Re-Identification
+- （2024 AAAI）LSTKC：Long Short-Term Knowledge Consolidation for Lifelong Person Re-identification
+- （2024 arXiv）Lifelong Person Re-Identification with Backward-Compatibility
+- （2024 arXiv）AdalReID：Auto-selected Knowledge Adapters for Lifelong Person Re-identification
+- （2024 arXiv）DASA：Distribution Aligned Semantics Adaption for Lifelong Person Re-Identification
+- （2024 arXiv）Teata：Image-Text-Image Knowledge Transferring for Lifelong Person Re-Identification with Hybrid Clothing States
+- （2024 arXiv）DRE：Diverse Representation Embedding for Lifelong Person Re-Identification
+- （2024 CVPR）C2R：Learning Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification
+- （2024 CVPR）DKP：Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification
+- （2024 IJCV）PAEMA：Exemplar-Free Lifelong Person Re-identification via Prompt-Guided Adaptive Knowledge Consolidation
+
